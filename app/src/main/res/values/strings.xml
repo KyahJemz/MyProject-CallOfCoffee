@@ -1,0 +1,62 @@
+<resources>
+    //Default
+    <string name="app_name">stephen_project</string>
+
+    //Application
+    <string name="appName">Call Of Coffee</string>
+    <string name="tagLine">"Great Ideas Comes With Great Coffee"</string>
+
+    //Navigation
+    <string name="back">&#60; Back</string>
+    <string name="next">Continue...</string>
+    <string name="logout">&#60; Log Out</string>
+    <string name="cart">Add To Cart</string>
+    <string name="getlocation">More Info</string>
+    <string name="menu">Menu List</string>
+    <string name="location">Store Locations</string>
+    <string name="ctg">Category</string>
+    <string name="database">Database</string>
+    <string name="home">Home</string>
+    <string name="home1">Home ></string>
+
+    //Form
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="age">Age</string>
+    <string name="mobilenumber">Mobile Number</string>
+    <string name="email">E-Mail</string>
+    <string name="agree">I agree with Terms and Conditions.</string>
+
+
+    <string name="clear">Clear</string>
+    <string name="signin">Sign In</string>
+    <string name="seclog">Security Login</string>
+    <string name="register">Register</string>
+    <string name="registration">Registration</string>
+
+
+    //Category
+    <string name="ctg1">Menu</string>
+    <string name="ctg2">Location</string>.
+    <string name="cartlist">My Cart</string>
+    <string name="orderlist">My Order</string>
+
+    //Menu List
+    <string name="item1">Regular Coffee</string>
+    <string name="item1price">25</string>
+    <string name="item2">Large Coffee</string>
+    <string name="item2price">100</string>
+    <string name="item3">Iced Coffee</string>
+    <string name="item3price">75</string>
+    <string name="item4">Coffee Crackers</string>
+    <string name="item4price">50</string>
+    <string name="item5">Bubble Tea</string>
+    <string name="item5price">75</string>
+    <string name="item6">Coffee Powder</string>
+    <string name="item6price">55</string>
+
+
+</resources>
